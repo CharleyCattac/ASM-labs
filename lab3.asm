@@ -1,5 +1,3 @@
-; 1st var
-
 .model small
 .stack 100h
 .data 
