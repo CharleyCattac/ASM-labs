@@ -1,6 +1,6 @@
 .model small   
 .stack 100h
-.data 
+.data  
     noDataStr db "No data!", '$'
     noFileStr db "The file with this name doesn't exist!", '$'
     procStartStr db "File processing has started...", '$'
