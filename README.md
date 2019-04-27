@@ -1,4 +1,3 @@
 # ASM-labs
-4th term
-labs: 3(1st var)
+4th term; 
 commercial usage is prohibited
