@@ -1,3 +1,2 @@
 # ASM-labs
-4th term; 
-commercial usage is prohibited
+4th term labs
